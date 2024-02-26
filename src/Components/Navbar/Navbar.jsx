@@ -10,6 +10,7 @@ export const Navbar = () => {
       <ul>
         <CustomLink to="/pricing">Pricing</CustomLink>
         <CustomLink to="/about">About</CustomLink>
+        <CustomLink to="/admin">Admin</CustomLink>
       </ul>
     </nav>
   );

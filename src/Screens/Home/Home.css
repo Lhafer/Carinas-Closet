@@ -1,9 +1,10 @@
 .slider-clothes {
   margin: 0 auto;
-  width: 25%;
+  width: 79%;
 }
 .container {
   align-items: center;
+  text-decoration: none;
   justify-content: center;
 }
 .card {
@@ -14,12 +15,13 @@
   justify-content: center;
   display: flex;
   flex-direction: column;
+  color: whitesmoke;
 }
 .card-img {
   height: 10rem;
   object-fit: contain;
 }
-.card-title {
+.card .card-title {
   font-size: 1rem;
   text-align: center;
 }
